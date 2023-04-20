@@ -1,11 +1,11 @@
-About specialist
-================
+About specialist-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/specialist-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/brandtbucher/specialist
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/specialist-feedstock/blob/main/LICENSE.txt)
 
 Summary: Visualize CPython 3.11's specializing, adaptive interpreter.
 
