@@ -1,5 +1,5 @@
 {% set name = "specialist" %}
-{% set version = "0.5.0" %}
+{% set version = "0.5.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/specialist-{{ version }}.tar.gz
-  sha256: 9b69870703f09412df6c4c154bb8d0b7681b6d0e8d529c142a898ef7aac94145
+  sha256: df08e036e8b03e813182b5ace4760aaa20a6fba1075d24731b81cdb64d5b7cd2
 
 build:
   entry_points:
